@@ -192,10 +192,77 @@ Me interesa transformar necesidades de negocio en soluciones tecnológicas funci
 
 ---
 
+## 🧩 Independent & Concept Projects | Proyectos independientes y conceptuales
+
+These projects represent independent development and design exploration. Their status is described separately to distinguish an application in development from a UI concept.
+
+Estos proyectos representan desarrollo independiente y exploración de diseño. Se especifica su estado para diferenciar una aplicación en desarrollo de un concepto visual.
+
+<div align="center">
+
+<img src="https://res.cloudinary.com/defkuaytw/image/upload/v1791307650/logoalt_xbpiqv.png" width="180" alt="Logo de marca propia en desarrollo" />
+
+<sub>Personal brand concept · Marca propia en desarrollo</sub>
+
+</div>
+
+### 06. Café Plum — Café Point of Sale System
+
+**EN:** A café management and point-of-sale system currently in development, with an interface designed around café operations.
+
+**ES:** Sistema de punto de venta y gestión para cafetería actualmente en desarrollo, con una interfaz orientada a las operaciones del negocio.
+
+<p align="center">
+  <a href="https://poscafe-plum.vercel.app/">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692329/Captura_de_pantalla_2026-10-22_120420_vyfjfg.png" width="48%" alt="Café Plum point-of-sale system screenshot 1" />
+  </a>
+  <a href="https://res.cloudinary.com/defkuaytw/image/upload/v1792692329/Captura_de_pantalla_2026-10-22_120518_xhn6jv.png">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692329/Captura_de_pantalla_2026-10-22_120518_xhn6jv.png" width="48%" alt="Café Plum point-of-sale system screenshot 2" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://res.cloudinary.com/defkuaytw/image/upload/v1792692329/Captura_de_pantalla_2026-10-22_120450_fko0cl.png">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692329/Captura_de_pantalla_2026-10-22_120450_fko0cl.png" width="48%" alt="Café Plum point-of-sale system screenshot 3" />
+  </a>
+  <a href="https://res.cloudinary.com/defkuaytw/image/upload/v1792692350/Captura_de_pantalla_2026-10-22_120541_nnbx1o.png">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692350/Captura_de_pantalla_2026-10-22_120541_nnbx1o.png" width="48%" alt="Café Plum point-of-sale system screenshot 4" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://poscafe-plum.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Café_Plum-168387?style=for-the-badge&logo=vercel&logoColor=white" alt="View Café Plum project" />
+  </a>
+</p>
+
+### 07. Afizionados — Memorabilia E-commerce UI Concept
+
+**EN:** A design concept exploring an improved memorabilia-shopping experience, with a customer-facing storefront and a data dashboard. This project focused on the proposed interface and experience.
+
+**ES:** Concepto de diseño que explora una experiencia mejorada para la venta de memorabilia, con una vista para clientes y un dashboard de datos. El trabajo se centró en la propuesta de interfaz y experiencia.
+
+<p align="center">
+  <a href="https://afizionados.vercel.app/">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692413/Captura_de_pantalla_2026-10-22_120558_hyrtmr.png" width="32%" alt="Afizionados memorabilia storefront concept" />
+  </a>
+  <a href="https://res.cloudinary.com/defkuaytw/image/upload/v1792692413/Captura_de_pantalla_2026-10-22_120614_czmbzt.png">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692413/Captura_de_pantalla_2026-10-22_120614_czmbzt.png" width="32%" alt="Afizionados customer-facing interface concept" />
+  </a>
+  <a href="https://res.cloudinary.com/defkuaytw/image/upload/v1792692420/Captura_de_pantalla_2026-10-22_120651_fjgfrq.png">
+    <img src="https://res.cloudinary.com/defkuaytw/image/upload/v1792692420/Captura_de_pantalla_2026-10-22_120651_fjgfrq.png" width="32%" alt="Afizionados data dashboard concept" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://afizionados.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Afizionados-24D4DA?style=for-the-badge&logo=vercel&logoColor=111827" alt="View Afizionados concept" />
+  </a>
+</p>
+
+---
+
 ## 💼 Professional Experience | Experiencia profesional
 
 ### Basílica de Guadalupe A. R. — SIINBG
-**Software Developer | Desarrollador de Software** · Present
+**Software Developer | Desarrollador de Software** · Present / Actualidad
 
 - Develop and maintain institutional application modules.
 - Work with SQL Server queries and database integrations.
